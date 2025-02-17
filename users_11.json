@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "first_name": "Julia",
+        "last_name": "Wilson",
+        "date_of_birth": "1989-10-15",
+        "place_of_birth": "Tranberg, Brunei Darussalam",
+        "salary": 115254,
+        "created_at": "2025-02-16T00:00:00"
+    },
+    {
+        "id": 2,
+        "first_name": "Kathleen",
+        "last_name": "Brock",
+        "date_of_birth": "1959-12-13",
+        "place_of_birth": "Hurleyberg, Cameroon",
+        "salary": 136695,
+        "created_at": "2025-02-16T01:00:00"
+    },
+    {
+        "id": 3,
+        "first_name": "Anthony",
+        "last_name": "Bennett",
+        "date_of_birth": "1963-02-17",
+        "place_of_birth": "East Nina, Latvia",
+        "salary": 138529,
+        "created_at": "2025-02-16T02:00:00"
+    },
+    {
+        "id": 4,
+        "first_name": "Jessica",
+        "last_name": "Vasquez",
+        "date_of_birth": "1986-11-23",
+        "place_of_birth": "New Amanda, Gibraltar",
+        "salary": 34213,
+        "created_at": "2025-02-16T03:00:00"
+    },
+    {
+        "id": 5,
+        "first_name": "Sheila",
+        "last_name": "Greer",
+        "date_of_birth": "1983-02-05",
+        "place_of_birth": "Danielchester, Montenegro",
+        "salary": 134552,
+        "created_at": "2025-02-16T04:00:00"
+    },
+    {
+        "id": 6,
+        "first_name": "Olivia",
+        "last_name": "Campbell",
+        "date_of_birth": "2000-12-24",
+        "place_of_birth": "Lake Paulview, Madagascar",
+        "salary": 89467,
+        "created_at": "2025-02-16T05:00:00"
+    },
+    {
+        "id": 7,
+        "first_name": "Mark",
+        "last_name": "Snyder",
+        "date_of_birth": "1959-04-20",
+        "place_of_birth": "Collinstown, Micronesia",
+        "salary": 128385,
+        "created_at": "2025-02-16T06:00:00"
+    },
+    {
+        "id": 8,
+        "first_name": "Brian",
+        "last_name": "Miller",
+        "date_of_birth": "1979-04-26",
+        "place_of_birth": "Muellerland, Liberia",
+        "salary": 92943,
+        "created_at": "2025-02-16T07:00:00"
+    },
+    {
+        "id": 9,
+        "first_name": "Matthew",
+        "last_name": "Morales",
+        "date_of_birth": "1960-06-18",
+        "place_of_birth": "Jonesside, South Africa",
+        "salary": 69289,
+        "created_at": "2025-02-16T08:00:00"
+    },
+    {
+        "id": 10,
+        "first_name": "Charles",
+        "last_name": "Hernandez",
+        "date_of_birth": "1996-05-09",
+        "place_of_birth": "Haleystad, Thailand",
+        "salary": 134827,
+        "created_at": "2025-02-16T09:00:00"
+    },
+    {
+        "id": 1,
+        "first_name": "This is new",
+        "last_name": "Hernandez",
+        "date_of_birth": "1996-05-09",
+        "place_of_birth": "Haleystad, Thailand",
+        "salary": 134827,
+        "created_at": "2025-02-16T10:00:00"
+    }
+]
