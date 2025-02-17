@@ -78,5 +78,13 @@
         "date_of_birth": "1996-05-09",
         "place_of_birth": "Haleystad, Thailand",
         "salary": 134827
-    }
+    },
+    {
+        "id": 1,
+        "first_name": "This is new",
+        "last_name": "Hernandez",
+        "date_of_birth": "1996-05-09",
+        "place_of_birth": "Haleystad, Thailand",
+        "salary": 134827
+    }    
 ]
